@@ -1,0 +1,19 @@
+body { 
+	background-color: #a6e8a2;
+
+ }
+
+ input {
+ 	font-family: 'Poppins', sans-serif;
+ 	padding: 10px 40px;
+ 	border-radius: 30px;
+ 	margin-left: 580px;
+ }
+
+ .content-body > p {
+ 	font-family: 'Poppins', sans-serif;
+ 	color:  red;
+	text-align: center;
+	font-size: 40px;
+	padding-top: 150px;
+ }
